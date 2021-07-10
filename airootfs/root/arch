@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+git clone https://github.com/GaniAliguzhinov/i3-arch.git && cp i3-arch/*.sh .
